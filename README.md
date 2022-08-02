@@ -11,6 +11,9 @@ Time and then extract useful information . This is mainly used in the field of s
 ### Aim of the Project
 In this project, we will devise a fast learning algorithm which will be able to learn from analyzing video frames to recognize the player's behavior and techniques and then use that information to give suggestions to improve his/her skills and give suggestions for the areas that the player needs to work upon. These results will aid athletes in identifying and correcting their frequent errors as well as modifying their technique if necessary to achieve better results. 
 
+#### Object Detection
+![image](https://user-images.githubusercontent.com/62549297/182296783-1d93ec2b-f682-48cd-aed5-a366a753c913.png)
+
 #### Pose detection of players using movenet and posenet
 ![image](https://user-images.githubusercontent.com/62549297/182035646-9606964d-7a6e-43f4-9001-96400a0d56a7.png)
 
